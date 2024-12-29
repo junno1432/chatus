@@ -1,7 +1,6 @@
 'use server'
 
 import { passwordMatchSchema } from "@/validation/passwordMatchSchema"
-import { error } from "console"
 import { z } from "zod"
 
 
